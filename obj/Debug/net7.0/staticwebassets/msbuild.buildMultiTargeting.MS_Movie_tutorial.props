@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MS_Movie_tutorial.props" />
+</Project>
